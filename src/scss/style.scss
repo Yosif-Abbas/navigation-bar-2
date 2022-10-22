@@ -96,7 +96,7 @@ body{
 .header .links a:hover .up::after{
     height: 100%;
     width: 2px;
-    transition: 250ms width 125ms ease;
+    transition: 250ms height 125ms ease;
 }
 
 .header .links a:hover .down::before{
@@ -108,7 +108,7 @@ body{
 .header .links a:hover .down::after{
     height: 100%;
     width: 2px;
-    transition: 250ms width 125ms ease;
+    transition: 250ms height 125ms ease;
 }
 
 .header .ham-con{
